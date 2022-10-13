@@ -2,13 +2,26 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
+    <title>Haz tu mensaje en cifrado Cesar</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <div id="todo">
     <div id="root">
-      <h1>Hello world!</h1>
+      <h1 id="Titulo">Haz tu mensaje en</h1>
+      <h1 id="titulo">Cifrado Cesar</h1>
     </div>
+    <h2>Escribe tu mensaje:</h2>
+    <p><input type="text" id="mensaje"/></p>
+    <h2> Numero de desplazamiento:</h2>
+    <p><input type="number" id="desplazamiento" size="4"/></p>
+    <p><button type="button" id="cifrar">Cifrar</button></p>
+
+    <h2>Tu mensaje cifrado:</h2>
+    <p><input type="text" id="mensajeCifrado"/></p>
+    </div>
+
+
     <script src="index.js" type="module"></script>
   </body>
 </html>

@@ -1,0 +1,26 @@
+#todo{
+    text-align:center;
+    
+}
+
+#Titulo{
+
+     font-family:Courier New;
+     font-size: 40px;
+     
+   }
+   #titulo{
+
+    font-family:fantasy;
+    font-size: 60px;
+    
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+    background: url(letras.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}

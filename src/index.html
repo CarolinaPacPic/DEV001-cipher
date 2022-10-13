@@ -6,21 +6,22 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="todo">
-    <div id="root">
-      <h1 id="Titulo">Haz tu mensaje en</h1>
-      <h1 id="titulo">Cifrado Cesar</h1>
-    </div>
+  <div id="todo">
+      <div id="root">
+      <h1 id="Titulo">Haz tu mensaje en Cifrado Cesar</h1>
+      </div>
+    <div id="texmensaje">
+       <h2> Número de desplazamiento:</h2>
+<p><input type="number" id="desplazamiento" size="4" placeholder="N°"/></p>
     <h2>Escribe tu mensaje:</h2>
-    <p><input type="text" id="mensaje"/></p>
-    <h2> Numero de desplazamiento:</h2>
-    <p><input type="number" id="desplazamiento" size="4"/></p>
-    <p><button type="button" id="cifrar">Cifrar</button></p>
+    <p><input type="text" id="mensaje" placeholder="tu mensaje..."/></p>
+    <p><button type="button" id="encode">Cifrar</button>
+    <button type="button" id="decode">Descifrar</button></p>
 
     <h2>Tu mensaje cifrado:</h2>
-    <p><input type="text" id="mensajeCifrado"/></p>
+    <p><input type="text" id="mensajeCifrado" placeholder="¡tu mensaje cifrado!"/></p>
     </div>
-
+  </div>
 
     <script src="index.js" type="module"></script>
   </body>

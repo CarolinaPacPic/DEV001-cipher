@@ -26,7 +26,7 @@ function Inicio() {
     },
     true)
 }
-console.log(cipher);
+
 
 
 

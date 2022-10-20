@@ -3,9 +3,6 @@
 ## Haz tu mensaje en Cifrado César
 "Haz tu mensaje en Cifrado César" es una pagina que le permite usted cifrar y descifrar un mensaje con un numero de desplazamiento a su elección.
 
-* Un _boilerplate_, la estructura básica de un proyecto en distintas carpetas (a través `modulos` en JS).
-
-
 ## Vistas del proyecto
 
 primera vista en papel

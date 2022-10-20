@@ -1,15 +1,8 @@
 # Haz tu mensaje en Cifrado César
 
-## Índice
-
-* [1. Objetivos de aprendizaje generales](#1-objetivos-de-aprendizaje-generales)
-
-***
 
 ## Haz tu mensaje en Cifrado César
 "Haz tu mensaje en Cifrado César" es una pagina que le permite usted cifrar y descifrar un mensaje con un numero de desplazamiento a su elección.
-
-* Un _boilerplate_, la estructura básica de un proyecto en distintas carpetas (a través `modulos` en JS).
 
 
 ## Vistas del proyecto

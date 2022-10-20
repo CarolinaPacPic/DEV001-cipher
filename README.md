@@ -27,7 +27,7 @@ vista de la pagina web
 **Para Descifrar:**
 * ingresar texto a descifrar.
 
-* elegir un desplazamiento de desplazamiento (el mismo que se utiliza para codificar).
+* elegir un offset de desplazamiento (el mismo que se utiliza para codificar).
 
 * oprima el boton "descifrar".
 

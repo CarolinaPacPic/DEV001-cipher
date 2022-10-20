@@ -16,18 +16,20 @@ vista de la pagina web
 ## Instrucciones de uso
 
 **Para Cifrar:**
-* ingresar texto a cifrar.
 
 * elegir un offset de desplazamiento.
+
+* ingresar texto a cifrar.
 
 * oprime boton "cifrar".
 
 * recibe tu mensaje 
 
 **Para Descifrar:**
-* ingresar texto a descifrar.
 
 * elegir un offset de desplazamiento (el mismo que se utiliza para codificar).
+
+* ingresar texto a descifrar.
 
 * oprima el boton "descifrar".
 
